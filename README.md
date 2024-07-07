@@ -5,3 +5,7 @@
 如果这份笔记对你有帮助，请帮我点亮右上角的Star⭐️。十分感谢～
 
 如果发现笔记存在任何问题，欢迎使用Pull requests功能，或者给我发邮件📧chen.huang23@imperial.ac.uk
+
+## 目录
+1. (Phase in quantum mechanics)[https://github.com/chenx820/PKU-QMII-notes/blob/main/Ch1_Phase%20in%20QM.pdf]
+2. 
