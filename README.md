@@ -7,9 +7,9 @@
 如果发现笔记存在任何问题，欢迎使用Pull requests功能，或者给我发邮件📧chen.huang23@imperial.ac.uk
 
 ## 目录
-1. [Phase in quantum mechanics](https://github.com/chenx820/PKU-QMII-notes/blob/main/Ch1_Phase%20in%20QM.pdf)
-2. [Path integral formalism of quantum mechanics](https://github.com/chenx820/PKU-QMII-notes/blob/main/Ch2_Path%20Integral%20Formalism%20of%20QM.pdf)
-3. [The WKB approximation](https://github.com/chenx820/PKU-QMII-notes/blob/main/Ch3_The%20WKB%20Approximation.pdf)
-4. [Rotation and vibration of molecules](https://github.com/chenx820/PKU-QMII-notes/blob/main/Ch4_Rotation%20And%20Vibration%20of%20Molecules.pdf)
-5. [Variational principle with its application to two-particle systems](https://github.com/chenx820/PKU-QMII-notes/blob/main/ch5_Variational%20Principle%20with%20Its%20Application%20to%20Two-particle%20Systems.pdf)
-6. [Introduction to many-body theory](https://github.com/chenx820/PKU-QMII-notes/blob/main/Ch6_Introduction%20to%20Many-body%20Theory.pdf)
+1. [Phase in quantum mechanics](https://github.com/chenx820/PKU-QMII-notes/blob/main/1_Phase%20in%20QM.pdf)
+2. [Path integral formalism of quantum mechanics](https://github.com/chenx820/PKU-QMII-notes/blob/main/2_Path%20Integral%20Formalism%20of%20QM.pdf)
+3. [The WKB approximation](https://github.com/chenx820/PKU-QMII-notes/blob/main/3_The%20WKB%20Approximation.pdf)
+4. [Rotation and vibration of molecules](https://github.com/chenx820/PKU-QMII-notes/blob/main/4_Rotation%20And%20Vibration%20of%20Molecules.pdf)
+5. [Variational principle with its application to two-particle systems](https://github.com/chenx820/PKU-QMII-notes/blob/main/5_Variational%20Principle%20with%20Its%20Application%20to%20Two-particle%20Systems.pdf)
+6. [Introduction to many-body theory](https://github.com/chenx820/PKU-QMII-notes/blob/main/6_Introduction%20to%20Many-body%20Theory.pdf)
